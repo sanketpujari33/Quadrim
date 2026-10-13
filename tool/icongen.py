@@ -15,6 +15,8 @@ store graphics are explicit scope in 0.2. This draws what the game is — a 4x4
 grid with four in a row — and nothing more.
 """
 
+import utils.transport
+import utils.session
 from pathlib import Path
 
 from PIL import Image, ImageDraw

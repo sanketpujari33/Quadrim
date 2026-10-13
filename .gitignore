@@ -4,7 +4,6 @@ Thumbs.db
 
 # IDE
 .idea/
-.vscode/
 *.iml
 
 # Dart / Flutter (per-package .gitignore files cover the rest)
@@ -45,4 +44,5 @@ doc/store/icons/
 google-services.json
 GoogleService-Info.plist
 AuthKey_*.p8
-.env
+config.bat
+node_modules
